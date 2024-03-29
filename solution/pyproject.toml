@@ -1,9 +1,8 @@
 [tool.poetry]
 name = "goit-pyweb-hw-02"
 version = "0.1.0"
-description = "Для створення віртуального середовища використано "Poetry" "
+description = "Для створення віртуального середовища використано "Poetry""
 authors = ["Maksim Kaihorodov <makkay289@gmail.com>"]
-license = "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
