@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "goit-pyweb-hw-02"
+version = "0.1.0"
+description = ""
+authors = ["Maksim Kaihorodov <133397928+Kaigorodov84@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+aiosqlite = "^0.20.0"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.1.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
